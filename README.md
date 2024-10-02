@@ -8,11 +8,12 @@
 
 ## 👨‍💻 About Me
 
-I am a dedicated software developer and a current B.Tech student in Computer Science and Engineering with a strong foundation in full-stack web development, specializing in Django for backend and React.js for frontend. I have a deep passion for creating innovative solutions and contributing to open-source projects, with a solid proficiency in Python and Java.
+**I am a dedicated software developer** and a current **B.Tech student in Computer Science and Engineering**, with a strong foundation in **full-stack web development**, specializing in **Django** for backend and **React.js** for frontend. I have a deep passion for creating **innovative solutions** and contributing to **open-source projects**, with solid proficiency in **Python** and **Java**.
 
-I recently completed an internship as a Java Developer, which further strengthened my problem-solving skills and my ability to adapt to new technologies. I am particularly interested in cloud computing and machine learning, and I am always exploring how these fields can be integrated into modern applications.
+I recently completed an internship as a **Java Developer**, which further strengthened my **problem-solving skills** and my ability to **adapt to new technologies**. My focus lies in both **frontend** and **backend** development, where I aim to build **efficient, scalable,** and **user-friendly applications**.
 
-With strengths in teamwork, time management, and adaptability, I enjoy tackling challenging problems and continuously expanding my skill set to stay ahead in the fast-evolving tech landscape.
+With strengths in **teamwork**, **time management**, and **adaptability**, I enjoy tackling challenging problems and continuously expanding my skill set to stay ahead in the fast-evolving tech landscape.
+
 
 ---
 
