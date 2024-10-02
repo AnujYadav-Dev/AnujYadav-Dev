@@ -8,7 +8,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer with a love for creating innovative solutions and contributing to open-source projects. With a strong background in **Python** and **full-stack web development**, I enjoy tackling challenging problems and continuously learning new skills along the way.
+I am a dedicated software developer and a current B.Tech student in Computer Science and Engineering with a strong foundation in full-stack web development, specializing in Django for backend and React.js for frontend. I have a deep passion for creating innovative solutions and contributing to open-source projects, with a solid proficiency in Python and Java.
+
+I recently completed an internship as a Java Developer, which further strengthened my problem-solving skills and my ability to adapt to new technologies. I am particularly interested in cloud computing and machine learning, and I am always exploring how these fields can be integrated into modern applications.
+
+With strengths in teamwork, time management, and adaptability, I enjoy tackling challenging problems and continuously expanding my skill set to stay ahead in the fast-evolving tech landscape.
 
 ---
 
