@@ -4,3 +4,7 @@
     <img alt="Anuj Yadav's GitHub Profile README" src="https://raw.githubusercontent.com/AnujYadav-Dev/AnujYadav-Dev/refs/heads/main/light_mode.svg">
   </picture>
 </a>
+
+<a href="https://github.com/AnujYadav-Dev/">
+  <img src="game.gif" alt="Space Shooter" width="100%">
+</a>
