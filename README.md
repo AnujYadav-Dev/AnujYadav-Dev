@@ -6,5 +6,5 @@
 </a>
 
 <a href="https://github.com/AnujYadav-Dev/">
-  <img src="game.gif" alt="Space Shooter" width="100%">
+  <img src="game.webp" alt="Space Shooter" width="100%">
 </a>
